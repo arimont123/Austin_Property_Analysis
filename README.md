@@ -1,5 +1,5 @@
 # Austin_Property_Analysis
-Initial Hypothesis: Does location or landmarks affect the value of properties in Austin, Texas?
+Initial Hypothesis: Do location or landmarks affect the value of properties in Austin, Texas?
 
 Questions:
 Where were the most desirable zip codes?
